@@ -3,7 +3,7 @@ import { RouterLink, RouterView } from 'vue-router'
 </script>
 
 <template>
-  <header>
+  <!-- <header>
     <nav class="wrapper">
       <RouterLink to="/">
         Index
@@ -12,7 +12,7 @@ import { RouterLink, RouterView } from 'vue-router'
         About
       </RouterLink>
     </nav>
-  </header>
+  </header> -->
   <main>
     <RouterView />
   </main>
